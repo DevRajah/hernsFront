@@ -354,7 +354,7 @@ export default function Home() {
         >
           <div className="px-8 py-12 lg:py-8 lg:h-3/4 flex flex-col justify-between rounded-lg text-white w-full max-w-lg lg:max-w-none">
             <div className="lg:text-5xl text-2xl lg:text-left text-center font-extrabold mb-6 lg:mb-4 tracking-wide">
-              <h2>Hern Medical: Delivering Quality Equipment</h2>
+              <h2>Herns Medical: Delivering Quality Equipment</h2>
             </div>
             <ul className="space-y-4 list-disc px-4 text-base lg:text-lg">
               <li className="pl-2 leading-relaxed">
