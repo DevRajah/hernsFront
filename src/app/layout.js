@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         <Head />
-        <div className="py-6">
+        <div className="py-6 mb-28">
         {children}
         </div>
         <Footer/> 
