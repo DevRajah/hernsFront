@@ -15,7 +15,7 @@ export default function Footer() {
                 <Link href="/product" className="hover:underline me-4 md:me-6">Products</Link>
             </li>
             <li>
-                <Link href="#" className="hover:underline">Contact</Link>
+                <Link href="/contact" className="hover:underline">Contact</Link>
             </li>
         </ul>
     </footer>
