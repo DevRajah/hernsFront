@@ -62,7 +62,7 @@ export default function About() {
           <div className="lg:w-3/5 w-full h-full">
             <div>
               <Image
-                src="/assets/ceo.jpeg"
+                src="/assets/newCeo.jpg"
                 alt="ceo"
                 width={500}
                 height={50}
